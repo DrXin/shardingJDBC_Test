@@ -1,0 +1,1 @@
+利用shardingJDBC的DefaultKeyGenerator生成分布式id，根据id对表的数目取余得到放置的表的序号
